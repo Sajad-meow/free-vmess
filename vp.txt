@@ -15,3 +15,4 @@ vmess://eyJhZGQiOiJzNi5zdGFycGluZzYuZnVuIiwiYWlkIjoiMCIsImhvc3QiOiJrYW1rNC5pcmth
 
 https://mrpooya.xyz/api/ramezan/swan.php?sub=1
 https://mrpooya.xyz/api/ramezan/saeron.php?sub=1
+https://mrpooya.xyz/api/ramezan/v2vpn.php?sub=1
