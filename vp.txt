@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sp
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/trojan.txt
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ssr.txt
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ss.txt
+https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/configs.txt
 
 
 
