@@ -64,28 +64,22 @@ https://github.com/Bardiafa/Free-V2ray-Config/blob/main/Persian-README.md
 
 https://raw.githubusercontent.com/LonUp/NodeList/main/V2RAY/Latest.txt
 
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.147.148:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%201
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.144.132:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%202
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.128.104:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%203
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.167:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=android#Regram%204
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.136.151:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%205
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.170:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%206
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.148.167:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%207
+trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.43:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%208
 
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.147.33:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=firefox&type=tcp&headerType=none#Regram%201
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.43:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#Regram%202
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.170:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#Regram%203
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.128.104:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=random&type=tcp&headerType=none#Regram%204
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.144.132:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=safari&type=tcp&headerType=none#Regram%205
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.147.33:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=diggory.theprp.online&path=%2Fstream#Regram%206
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.144.132:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=diggory.theprp.online&path=%2Fstream#Regram%207
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.43:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=diggory.theprp.online&path=%2Fstream#Regram%208
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.170:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=android&type=ws&host=diggory.theprp.online&path=%2Fstream#Regram%209
-trojan://6105ef91258b75d1f94c0ef0638eb04b@193.151.128.104:443?security=tls&sni=diggory.theprp.online&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=diggory.theprp.online&path=%2Fstream#Regram%2010
+## Trojan Go ##
 
-
-### TROJAN-GO ###
-
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.147.33:443/?sni=diggory.theprp.online&type=none#Regram%20Trojan%20Go%201
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.43:443/?sni=diggory.theprp.online&type=none#Regram%20Trojan%20Go%202
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.170:443/?sni=diggory.theprp.online&type=none#Regram%20Trojan%20Go%203
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.128.104:443/?sni=diggory.theprp.online&type=none#Regram%20Trojan%20Go%204
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.144.132:443/?sni=diggory.theprp.online&type=none#Regram%20Trojan%20Go%205
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.147.33:443/?type=ws&sni=diggory.theprp.online&host=diggory.theprp.online&path=%2fstream#Regram%20Trojan%20Go%206
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.43:443/?type=ws&sni=diggory.theprp.online&host=diggory.theprp.online&path=%2fstream#Regram%20Trojan%20Go%207
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.149.170:443/?type=ws&sni=diggory.theprp.online&host=diggory.theprp.online&path=%2fstream#Regram%20Trojan%20Go%208
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.128.104:443/?type=ws&sni=diggory.theprp.online&host=diggory.theprp.online&path=%2fstream#Regram%20Trojan%20Go%209
-trojan-go://6105ef91258b75d1f94c0ef0638eb04b@193.151.144.132:443/?type=ws&sni=diggory.theprp.online&host=diggory.theprp.online&path=%2fstream#Regram%20Trojan%20Go%2010
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.43:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%208
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.147.148:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%201
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.144.132:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%202
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.128.104:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%203
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.167:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%204
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.136.151:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%205
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.170:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%206
+trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.148.167:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%207
