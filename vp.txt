@@ -83,3 +83,37 @@ trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.167:443/?sni=www.google
 trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.136.151:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%205
 trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.170:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%206
 trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.148.167:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%207
+
+
+
+✅ لینک سابسکرایبV2RAY مناسب همراه اول
+
+https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Mci/V2raySub.txt
+
+✅سرور های موجود در لینک سابسکرایبV2RAY  مناسب همراه اول
+
+https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Mci/ServerList.txt
+
+✅ لینک سابسکرایب کلش مناسب همراه اول
+
+https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Mci/MciClashSub.yaml
+
+✅سرور های موجود در لینک سابسکرایب کلش مناسب همراه اول
+
+https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Mci/ServerList.txt
+
+✅ لینک سابسکرایبV2RAY  مناسب ایرانسل
+
+https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Irancell/IrancellSub.txt
+
+✅سرور های موجود در لینک سابسکرایبV2RAY مناسب ایرانسل
+
+https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Irancell/ServerList.txt
+
+✅ لینک سابسکرایب کلش مناسب ایرانسل
+
+https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Irancell/IrancellClashSub.yaml
+
+✅سرور های موجود در لینک سابسکرایب کلش مناسب ایرانسل
+
+https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Irancell/ServerList.txt
