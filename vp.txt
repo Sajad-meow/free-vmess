@@ -64,26 +64,6 @@ https://github.com/Bardiafa/Free-V2ray-Config/blob/main/Persian-README.md
 
 https://raw.githubusercontent.com/LonUp/NodeList/main/V2RAY/Latest.txt
 
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.147.148:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%201
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.144.132:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%202
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.128.104:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%203
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.167:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=android#Regram%204
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.136.151:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%205
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.170:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%206
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.148.167:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%207
-trojan://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.43:443/?type=ws&host=diggory.theprp.online&path=%2Fstream&security=tls&sni=www.googletagmanager.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=ios#Regram%208
-
-## Trojan Go ##
-
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.43:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%208
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.147.148:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%201
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.144.132:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%202
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.128.104:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%203
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.167:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%204
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.136.151:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%205
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.149.170:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%206
-trojan-go://f5e9eefcc3088a5ad8f6b9d000d47a5f@193.151.148.167:443/?sni=www.googletagmanager.com&type=ws&host=diggory.theprp.online&path=%2Fstream&encryption=none#Regram%207
-
 
 
 ✅ لینک سابسکرایبV2RAY مناسب همراه اول
