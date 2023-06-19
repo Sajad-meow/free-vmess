@@ -102,3 +102,5 @@ https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@141.193.213.9:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fragment.iraniancp.click&type=ws#Iranian+Cypherpunks+443+Frag%7CRightel
 
 https://github.com/MortezaBashsiz/CFScanner/releases/tag/1.0.8
+
+http://5.75.235.35:5000/updateurls
