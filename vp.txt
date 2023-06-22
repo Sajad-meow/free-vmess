@@ -57,8 +57,29 @@ https://github.com/Bardiafa/Free-V2ray-Config/blob/main/Persian-README.md
 
 
 
+در ماتسوری یا v2rayng ایمپورت بزنید
 
 
+CONFIG TYPENORMAL SUBSCRIPTIONBASE64 SUBSCRIPTIONMIX of 
+ALL
+
+[NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/mix)
+
+VMESS
+[NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vmess)
+[BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vmess_base64)
+VLESS
+[NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vless)
+[BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vless_base64)
+REALITY
+[NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality)
+[BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality_base64)
+TROJAN
+[NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/trojan)
+[BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/trojan_base64)
+ShadowSocks
+[NORMAL SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/shadowsocks)
+[BASE64 SUBSCRIPTION](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/shadowsocks_base64)
 
 
 
@@ -66,37 +87,6 @@ https://raw.githubusercontent.com/LonUp/NodeList/main/V2RAY/Latest.txt
 
 
 
-✅ لینک سابسکرایبV2RAY مناسب همراه اول
-
-https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Mci/V2raySub.txt
-
-✅سرور های موجود در لینک سابسکرایبV2RAY  مناسب همراه اول
-
-https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Mci/ServerList.txt
-
-✅ لینک سابسکرایب کلش مناسب همراه اول
-
-https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Mci/MciClashSub.yaml
-
-✅سرور های موجود در لینک سابسکرایب کلش مناسب همراه اول
-
-https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Mci/ServerList.txt
-
-✅ لینک سابسکرایبV2RAY  مناسب ایرانسل
-
-https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Irancell/IrancellSub.txt
-
-✅سرور های موجود در لینک سابسکرایبV2RAY مناسب ایرانسل
-
-https://raw.githubusercontent.com/Goodbyefiltering/V2ray_Subscription_Links/main/Irancell/ServerList.txt
-
-✅ لینک سابسکرایب کلش مناسب ایرانسل
-
-https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Irancell/IrancellClashSub.yaml
-
-✅سرور های موجود در لینک سابسکرایب کلش مناسب ایرانسل
-
-https://raw.githubusercontent.com/Goodbyefiltering/Clash_Subscription_Links/main/Irancell/ServerList.txt
 
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@141.193.213.9:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fragment.iraniancp.click&type=ws#Iranian+Cypherpunks+443+Frag%7CRightel
