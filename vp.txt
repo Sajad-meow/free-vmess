@@ -93,4 +93,6 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@141.193.213.9:443?path=%2F%3Fed%3D2
 
 https://github.com/MortezaBashsiz/CFScanner/releases/tag/1.0.8
 
-http://api.frostbyte.cfd:5000/updateurls?token=VIPPlusSub
+https://apkdl.net/en/com.v2cross.shadowrocket
+
+https://nimdl.gabrielsouto.shop/0:/com.v2cross.shadowrocket.apk
