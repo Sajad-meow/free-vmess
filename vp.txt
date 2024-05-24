@@ -17,3 +17,5 @@ https://links.achaemenidempireofpersia.uk/ms2GJc#IrancpiWarpMix
 vmess://eyJhZGQiOiIxMDQuMjEuMTIuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjYzliMTIwLWUzMGItNDUxYi04YzczLTU4MTM1ZGViNzI4YiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYXJnbyIsInBvcnQiOiI0NDMiLCJwcyI6IkFyZ29WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoibm1xb2MuamhicW10d3RtLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
 https://raw.githubusercontent.com/IranianCypherpunks/SingBox/main/Sub
+
+https://v2.alicivil.workers.dev/?list=1&count=100&shuffle=true
